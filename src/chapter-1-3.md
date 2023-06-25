@@ -1,4 +1,4 @@
-xpect from this Book
+What you can expect from this book
 ================================================
 
 Welcome to "Augmenting Your Writing Skills with AI: Techniques and Strategies for Improved Creativity and Efficiency." This book is designed to help writers learn how to use artificial intelligence (AI) to improve their writing skills, increase efficiency, and unlock greater creativity.
