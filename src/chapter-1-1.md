@@ -1,4 +1,4 @@
-Introduction: The role of AI in writing
+The role of AI in writing
 =======================================
 
 Writing has been a fundamental aspect of human communication for thousands of years and continues to play a significant role in our modern society. However, as technology advances, so too does the process of writing. Artificial intelligence (AI) has become a revolutionary tool for writers, offering various possibilities for augmenting writing skills.
