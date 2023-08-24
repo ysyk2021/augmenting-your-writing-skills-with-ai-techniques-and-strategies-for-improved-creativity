@@ -1,4 +1,3 @@
-# Common applications of AI in writing, including automated editing and content creation
 
 In this chapter, we will explore two common applications of AI in writing: automated editing and content creation. We will discuss how these AI-powered tools work and their benefits for writers.
 

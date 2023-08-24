@@ -1,5 +1,3 @@
-Chapter 5: Addressing Ethical Considerations and Best Practices for AI-Powered Writing
-======================================================================================
 
 As with any technology, artificial intelligence (AI) in writing comes with ethical considerations and best practices that writers should be aware of. In this chapter, we will discuss some of the primary concerns around AI in writing and provide best practices for integrating AI into your writing workflow.
 

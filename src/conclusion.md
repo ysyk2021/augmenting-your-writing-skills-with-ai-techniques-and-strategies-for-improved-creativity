@@ -1,4 +1,3 @@
-# Conclusion
 
 As we conclude this book on augmenting your writing skills with AI, it's essential to recap the benefits of using AI and how it can improve the writing process for writers of all skill levels.
 

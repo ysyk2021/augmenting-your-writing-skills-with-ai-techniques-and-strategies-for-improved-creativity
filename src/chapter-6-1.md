@@ -1,4 +1,3 @@
-# Addressing Concerns About Plagiarism and Authenticity When Using AI in Writing Practices
 
 Artificial intelligence (AI) has the potential to improve writing efficiency and creativity, but it also raises concerns about plagiarism and authenticity. To address these concerns, it's essential to follow best practices when using AI in writing workflows.
 
