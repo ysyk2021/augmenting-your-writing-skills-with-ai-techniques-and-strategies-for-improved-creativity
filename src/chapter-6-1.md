@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Plagiarism and Authenticity when Using AI in Writing Practices
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the concerns related to plagiarism and authenticity when incorporating AI into writing practices. While AI can enhance creativity and efficiency, it is crucial to address these concerns to maintain ethical standards and uphold the integrity of the writing process.
 

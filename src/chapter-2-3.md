@@ -1,5 +1,4 @@
-Chapter 4: Examples of Successful Implementation of AI in Writing
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) techniques have found successful applications in various aspects of writing, enhancing creativity and efficiency. In this chapter, we will explore some notable examples of how AI has been successfully implemented in writing tasks.
 

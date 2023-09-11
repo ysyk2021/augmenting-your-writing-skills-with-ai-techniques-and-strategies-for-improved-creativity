@@ -1,5 +1,4 @@
-Chapter 9: Setting Realistic Goals and Tracking Progress on Your Writing Optimization Journey
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As a writer, it's essential to set realistic goals and track your progress to continuously improve your writing skills. This chapter explores how you can leverage AI techniques and strategies to set achievable objectives and monitor your advancement in optimizing your writing process for enhanced creativity and efficiency.
 

@@ -1,5 +1,4 @@
-Chapter: Best Practices for Integrating AI into Writing while Maintaining Creativity and Originality
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the best practices for integrating AI into writing to enhance creativity and originality. While AI tools can greatly improve writing efficiency, it is essential to strike a balance between leveraging AI and maintaining the unique voice and style of the human writer.
 

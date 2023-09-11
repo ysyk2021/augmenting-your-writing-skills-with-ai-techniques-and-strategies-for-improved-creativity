@@ -1,5 +1,4 @@
-Chapter 3: Machine Learning-Powered Virtual Assistants for Writing Support
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Machine learning-powered virtual assistants are becoming increasingly popular in various industries, including writing. In this chapter, we will explore how machine learning can be used to develop virtual assistants that provide writers with support and improve their efficiency and creativity.
 

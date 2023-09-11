@@ -1,5 +1,4 @@
-Chapter: Using Machine Learning-Powered Tools for Generating Topic Ideas and Keyword Suggestions
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of machine learning-powered tools to generate topic ideas and keyword suggestions that can augment your writing skills. Leveraging the power of machine learning can help you overcome writer's block, discover new angles for your writing, and optimize your content for better visibility and engagement.
 

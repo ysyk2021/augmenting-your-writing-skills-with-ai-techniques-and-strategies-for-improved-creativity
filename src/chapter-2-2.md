@@ -1,5 +1,4 @@
-Chapter 4: Common Applications of AI in Writing, including Automated Editing and Content Creation
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has become an indispensable tool for writers, offering a wide range of applications that enhance creativity and efficiency. In this chapter, we will explore some common applications of AI in writing, with a focus on automated editing and content creation.
 

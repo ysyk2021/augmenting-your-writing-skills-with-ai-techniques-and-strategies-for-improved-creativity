@@ -1,5 +1,4 @@
-Chapter: Implementing AI-Powered Feedback and Analysis for Enhancing Your Writing Skills
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the implementation of AI-powered feedback and analysis to improve your writing skills. Leveraging AI can provide valuable insights and constructive feedback that contribute to enhanced creativity and efficiency in your writing process.
 

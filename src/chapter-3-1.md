@@ -1,5 +1,4 @@
-Chapter 11: Steps for Creating a Personalized Writing Strategy
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a personalized writing strategy is crucial for optimizing your writing skills using AI techniques. This chapter outlines the steps you can take to develop a tailored approach that enhances your creativity and efficiency in writing.
 
